@@ -1,7 +1,11 @@
-# spam
+# Spam
 
-Folge die anleitung.
-Das Programm kann sich ab ca. 1000 aufhängen (muss aber nicht)
+#instruction
+Follow the instructions.
+The program may freeze around 1000 (but it doesn't have to).
 
-.py ist der Python code (Du musst alle imports selber installieren).
-.exe bald auch verfügbar!
+#files
+.py is the Python code (you'll need to install all the imports yourself).
+.exe will be available soon!
+
+Have Fun!
